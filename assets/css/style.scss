@@ -31,7 +31,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: #716062;
 }
 
 #skip-to-content {
@@ -47,13 +47,13 @@ body {
     left: 10px;
     height: auto;
     width: auto;
-    background: invert($body-link-color);
-    outline: thick solid invert($body-link-color);
+    background: invert(#b81e1e);
+    outline: thick solid invert(#b81e1e);
   }
 }
 
 a {
-  color: $body-link-color;
+  color: #b81e1e;
   text-decoration: none;
 
   &:hover {
