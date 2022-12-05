@@ -17,8 +17,8 @@ body {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: #690404;
-  background-image: linear-gradient(120deg, #db0404, #690404);
+  background-color: #570303;
+  background-image: linear-gradient(120deg, #f01d1d, #570303);
 
   @include large {
     padding: 5rem 6rem;
