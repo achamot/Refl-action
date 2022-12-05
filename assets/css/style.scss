@@ -2,3 +2,22 @@
 ---
 
 @import "{{ site.theme }}"; 
+@import "variables";
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: #8a1c1f;
+  background-image: linear-gradient(120deg, #cc3d41, #8a1c1f);
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
