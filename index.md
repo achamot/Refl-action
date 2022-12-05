@@ -3,7 +3,7 @@
 
 ## Why our project is the best?
 
-Because we will prove why salted pop corns are better that sweet pop corns :)  
+Because we will prove why salted pop corns are better tha sweet pop corns.
 
 In case you are interested here is our plot for LDA
 {% include lda.html %}
