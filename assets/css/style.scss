@@ -2,5 +2,27 @@
 ---
 
 @import "{{ site.theme }}"; 
-@import "variables";
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #570303;
+$header-bg-color-secondary: #f01d1d;
+
+// Text
+$section-headings-color: #991515;
+$body-text-color: #716062;
+$body-link-color: #b81e1e;
+$blockquote-text-color: #819198 !default;
+
+// Code
+$code-bg-color: #faf3f3;
+$code-text-color: #825656;
+
+// Borders
+$border-color: #f0dcdc;
+$table-border-color: #ece9e9;
+$hr-border-color: #f1efef;
 
