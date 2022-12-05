@@ -1,4 +1,4 @@
-![image](popcorn.jpg)
+![image](output/popcorn.jpg)
 
 
 ## Why our project is the best?
