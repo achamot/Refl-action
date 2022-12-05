@@ -3,11 +3,22 @@
 
 @import "{{ site.theme }}"; 
 @import "variables";
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #850707;
+}
+
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: #8a1c1f;
-  background-image: linear-gradient(120deg, #cc3d41, #8a1c1f);
+  background-color: #690404;
+  background-image: linear-gradient(120deg, #db0404, #690404);
 
   @include large {
     padding: 5rem 6rem;
