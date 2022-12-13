@@ -10,7 +10,9 @@ You can also admire our magnificient plot for LDA:
 {% include lda.html %}
 
 Similar topic graph for BERT: 
+
 {% include bert_topics.html %}
 
 BERT over time : 
+
 {% include bert_topics_time.html %}
