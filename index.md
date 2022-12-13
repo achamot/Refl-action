@@ -13,14 +13,14 @@ Similar topic graph for BERT:
 
 {% include bert_topics.html %}
 
-BERT over time : 
+BERT over time: 
 
 {% include bert_topics_time.html %}
 
-BERT vs Sentiment over time : 
+BERT vs Sentiment over time: 
 
 {% include bert_topics_time_sentiment.html %}
 
-BERT topics bubble plot:
+BERT topics bubble plot: 
 
 {% include Bert_topics_bubble.html %}
