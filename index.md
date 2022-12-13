@@ -16,3 +16,7 @@ Similar topic graph for BERT:
 BERT over time : 
 
 {% include bert_topics_time.html %}
+
+BERT vs Sentiment over time : 
+
+{% include bert_topics_time_sentiment.html %}
