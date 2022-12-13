@@ -20,3 +20,8 @@ BERT over time :
 BERT vs Sentiment over time : 
 
 {% include bert_topics_time_sentiment.html %}
+
+BERT topics bubble plot:
+
+
+{% include Bert_topics_bubble.html %}
