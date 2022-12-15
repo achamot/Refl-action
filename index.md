@@ -28,3 +28,15 @@ BERT topics bubble plot:
 Categories over time period of five years:
 
 ![image](output/categ_five_years.png)
+
+BERT topics vs sentiment: 
+
+{% include radar_chart_trisentiment_BERT.html %}
+
+BERT topics vs negative/positive:
+
+{% include radar_chart_bisentiment_BERT.html %}
+
+BERT topics vs multi sentiment:
+
+{% include radar_chart_multisentiment_BERT.html %}
