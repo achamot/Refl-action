@@ -24,3 +24,7 @@ BERT vs Sentiment over time:
 BERT topics bubble plot: 
 
 {% include Bert_topics_bubble.html %}
+
+Categories over time period of five years:
+
+![image](output/categ_five_years.png)
