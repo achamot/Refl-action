@@ -17,6 +17,10 @@ BERT over time:
 
 {% include bert_topics_time.html %}
 
+Sentiments over time: 
+
+{% include sentiment_scores_time.html %}
+
 BERT vs Sentiment over time: 
 
 {% include bert_topics_time_sentiment.html %}
