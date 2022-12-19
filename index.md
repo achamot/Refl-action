@@ -16,7 +16,7 @@ BERT over time:
 
 ## Concerns
 
-The 10 most present words in movies plot summaries for each category:
+The 10 most present words in movies plot summaries for each concern:
 
 {% include Concerns_Words.html %}
 
