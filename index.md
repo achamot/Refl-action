@@ -31,7 +31,7 @@ BERT topics bubble plot:
 
 Categories over time period of five years:
 
-![image](output/categ_five_years.png)
+{% include concern_score_time.html %}
 
 BERT topics vs sentiment: 
 
