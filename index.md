@@ -45,3 +45,7 @@ BERT topics vs negative/positive:
 BERT topics vs multi sentiment:
 
 {% include radar_chart_multisentiment_BERT.html %}
+
+Sentiments vs concerns: 
+
+{% include heatmap_sentiments_concerns.html %}
