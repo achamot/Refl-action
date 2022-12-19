@@ -21,9 +21,9 @@ Sentiments over time:
 
 {% include sentiment_scores_time.html %}
 
-BERT vs Sentiment over time b: 
+BERT vs Sentiment over time t: 
 
-{% include bert_topics_time_sentiment.html max-width="10px" %}
+{% include bert_topics_time_sentiment.html max-width="50" %}
 
 BERT topics bubble plot: 
 
