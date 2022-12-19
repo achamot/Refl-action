@@ -1,6 +1,6 @@
 ![image](output/popcorn.jpg)
 
-In the 17th century, Molière, the French playwright, actor and poet depicted the customs and morals of his day. The analysis of his work allows us today to have an idea of the societal issues and the questionings of that time. Artistic expression and, more precisely, the 7th art can provide a lot of information about society’s thoughts. 
+In the 17th century, Molière, the French playwright, actor and poet depicted the customs and morals of his day. The analysis of his work allows us today to have an idea of the societal issues and the questionings of that time. Artistic expression and, more precisely, the 7th art can provide a lot of information about society’s thoughts.  
 Here, our goal is to analyze the content of plot summaries from the [CMU Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) and characterized them by looking at the lexical fields, word occurrences, as well as the words polarity and general sentiments. This would allow to identify the main concerns of society (e.g., climate catastrophe, war, technological disaster, family disunity) and evaluate the feelings associated with these topics. We will also look at the evolution of these concerns over time to obtain a more complete characterization of the situation. 
 
 ## Topics
