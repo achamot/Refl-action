@@ -24,17 +24,19 @@ Now that we have obtained our topics, we can observe their evolution throughout 
 
 ## How specific societal concerns are reflected from these movies?
 
-The 10 most present words in movies plot summaries for each concern:
+Our second goal is to see to what extent specific societal concerns are reflected in plot summaries. We start by creating these specific concern categories by targeting leading words to characterize each plot summaries by attributing a score for each concern. Each concern associated with its 10 most frequent words found in the plot summaries are represented in the following figure. Overall, the most represented concerns are relationships, conflict is in second position, the third one gathers space and health concerns, then 4th position is for mental concern, and finally ecological, technological, gender inequality and homophobia are equally represented.
 
 {% include Concerns_Words.html %}
 
-Categories over time period of five years:
-
-{% include concern_score_time.html %}
+In the following plot we can explore the association between concerns and each BERT topic previously found. To isolate one particular concern in the plot, you can double click on it in the legend. We can see relations of common sense such as space, technological or ecological concern with the topic 4_earth_planet_space, or the conflict concern with 24_soviet_agent_nuclear, 14_hitler_nazi_berlin and 11_sharpe_soldiers_japanese, as well as the relationship concern with 3_mother_father_family. More interestingly, gender inequality is related to topic 1_police_murder_detective and 27_priest_church_nuns, the latter being also related to homophobia. We encourage you to explore this plot, which presents very interesting and societal related results!
 
 {% include Concerns_vs_BERT.html %}
 
 ## Do these concerns evolve over time?
+
+Categories over time period of five years:
+
+{% include concern_score_time.html %}
 
 ## Which sentiments are mirrored by the cinema?
 
