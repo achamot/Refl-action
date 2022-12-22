@@ -20,7 +20,7 @@ Our first goal is to extract the main topics from plot summaries in order to cla
 
 {% include bert_topics_time.html %}
 
-## Concerns
+## How specific societal concerns are reflected from these movies?
 
 The 10 most present words in movies plot summaries for each concern:
 
@@ -30,13 +30,19 @@ Categories over time period of five years:
 
 {% include concern_score_time.html %}
 
-## Sentiments
+{% include Concerns_vs_BERT.html %}
+
+## Do these concerns evolve over time?
+
+## Which sentiments are mirrored by the cinema?
+
+## What is the evolution of society's feelings?
 
 Sentiments over time: 
 
 {% include sentiment_scores_time.html %}
 
-BERT vs Sentiment over time t: 
+BERT vs Sentiment over time: 
 
 {% include bert_topics_time_sentiment.html max-width="50" %}
 
@@ -52,6 +58,10 @@ BERT topics vs multi sentiment:
 
 {% include radar_chart_multisentiment_BERT.html %}
 
+##  How is society feeling about societal issues?
+
 Sentiments vs concerns: 
 
 {% include heatmap_sentiments_concerns.html %}
+
+## Conclusion
