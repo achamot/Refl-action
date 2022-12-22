@@ -16,7 +16,7 @@ Our first goal is to extract the main topics from plot summaries in order to cla
 
 ## How do these topics evolve over time?
 
-Now that we have obtained the topics, we can observe their evolution throughout the years. The figure below displays the proportion of each topic for each five years, and reveals that the repartition has changed a lot in the last century. We indeed see an increase of foreign countries related topics, such as 7_tokyo_conan_japan or 6_wong_kong_master. We also see a drastic reduction of the second most frequent topic 2_town_men_horse, which is underrepresented in the last 30 years. We also observe a strong increase of the topic 14_hitler_nazi_berlin in 1940, in accordance with the historical facts at that time.
+Now that we have obtained our topics, we can observe their evolution throughout the years. The figure below displays the proportion of each topic for each five years, and reveals that the repartition has changed a lot in the last century. We indeed see an expansion of the topic 4_earth_planet_space, reflecting the recent awareness of climate change. Foreign countries related topics have also increased, such as 7_tokyo_conan_japan or 6_wong_kong_master. In addition, topics related to relationships and more precisely family are well represented in recent years, as reflected by topics 0_father_police_family and 3_mother_father_family.  On the contrary, we see a drastic reduction of the second most frequent topic 2_town_men_horse, which is underrepresented in the last 30 years. We also observe a strong increase of the topic 14_hitler_nazi_berlin in 1940, in accordance with the historical facts at that time.
 
 {% include bert_topics_time.html %}
 
