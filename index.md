@@ -6,7 +6,7 @@ Here, we are about to unlock the society's deepest mysteries by analyzing the co
 
 ## Which scope of information can we get from CMU?
 
-Our study focuses on the movies provided by the CMU Movie Summary Corpus and, more specifically, on the release date and the plot summaries of these movies. Thanks to this database, we have access to more than 42000 movies with English plot texts, of which 93.8% are provided with a release year. Our dataset represents a wide period of time ranging from 1893 to 2014 with a higher representation for more recent movies. It also gathers a wide range of countries with the top-5 most representative countries being United States of America, India, United Kingdom, Japan and France.
+Our study focuses on the movies provided by the CMU Movie Summary Corpus and, more specifically, on the release date and the plot summaries of these movies. Thanks to this database, we have access to more than 42000 movies with English plot texts, of which 93.8% are provided with a release year. Our dataset represents a wide period of time ranging from 1893 to 2014 with a higher representation for more recent movies. It also gathers a wide range of countries with the top-5 most representative countries being the United States of America, India, United Kingdom, Japan and France.
 
 ## Which topics are the most common?
 
